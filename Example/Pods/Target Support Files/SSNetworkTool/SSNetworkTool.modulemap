@@ -1,0 +1,6 @@
+framework module SSNetworkTool {
+  umbrella header "SSNetworkTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
